@@ -1,0 +1,15 @@
+{
+	
+	"yuuka": {
+		"enable": true,
+		"name_en": "Hayase Yuuka",
+		"name_zh": "早濑优香",
+        "title": "Blue Archive-早瀬ユウカ",
+        "cover": "cover.png",
+		"sid": 40,
+		"example": "今日はいい天気ですね。",
+		"language": "Japanese",
+		"type": "multi"
+    }
+	
+}
